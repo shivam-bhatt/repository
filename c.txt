@@ -1,0 +1,6 @@
+original c file
+
+
+ltered from git bash
+
+
